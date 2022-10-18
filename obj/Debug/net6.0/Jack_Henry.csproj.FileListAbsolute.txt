@@ -1,0 +1,17 @@
+C:\Users\joshs\Documents\repos\Jack_Henry\bin\Debug\net6.0\Jack_Henry.exe
+C:\Users\joshs\Documents\repos\Jack_Henry\bin\Debug\net6.0\Jack_Henry.deps.json
+C:\Users\joshs\Documents\repos\Jack_Henry\bin\Debug\net6.0\Jack_Henry.runtimeconfig.json
+C:\Users\joshs\Documents\repos\Jack_Henry\bin\Debug\net6.0\Jack_Henry.dll
+C:\Users\joshs\Documents\repos\Jack_Henry\bin\Debug\net6.0\Jack_Henry.pdb
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.csproj.AssemblyReference.cache
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.AssemblyInfoInputs.cache
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.AssemblyInfo.cs
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.csproj.CoreCompileInputs.cache
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.dll
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\refint\Jack_Henry.dll
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.pdb
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.genruntimeconfig.cache
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\ref\Jack_Henry.dll
+C:\Users\joshs\Documents\repos\Jack_Henry\bin\Debug\net6.0\RestSharp.dll
+C:\Users\joshs\Documents\repos\Jack_Henry\obj\Debug\net6.0\Jack_Henry.csproj.CopyComplete
